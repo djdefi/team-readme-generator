@@ -9,8 +9,36 @@ Action to automatically keep a table of team members up to date in a repository 
 <!--auto-team-table-->
 | 👤 | Username | Location | Bio |
 | --- | --- | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/3662109?v=4" width="30" /> | @djdefi | California | Staff Support Engineer @github  |
-| <img src="https://avatars.githubusercontent.com/u/17680929?v=4" width="30" /> | @bevns | California | Software Engineer |
+| <img src="https://avatars.githubusercontent.com/u/182?v=4" width="30" /> | @mtodd | Atlanta, GA | Staff Engineer @github. Ruby/Go mostly. Perpetual student. |
+| <img src="https://avatars.githubusercontent.com/u/829?v=4" width="30" /> | @mutle | Düsseldorf, Germany |     Senior Engineer at @github |
+| <img src="https://avatars.githubusercontent.com/u/2195?v=4" width="30" /> | @arthurschreiber | Germany | I work at @github. ❤️  |
+| <img src="https://avatars.githubusercontent.com/u/2546?v=4" width="30" /> | @skalnik | San Francisco, CA | Everybody cat planet tonight |
+| <img src="https://avatars.githubusercontent.com/u/4215?v=4" width="30" /> | @nathos | Brooklyn, NY | Always thinking of, testing, and writing about ways to work better, together ❤️  👫. |
+| <img src="https://avatars.githubusercontent.com/u/4619?v=4" width="30" /> | @omgitsads | Berlin, Germany |  |
+| <img src="https://avatars.githubusercontent.com/u/4719?v=4" width="30" /> | @tma | Switzerland |  |
+| <img src="https://avatars.githubusercontent.com/u/4887?v=4" width="30" /> | @erebor | Huntsville, AL | I fight spam at @github |
+| <img src="https://avatars.githubusercontent.com/u/13760?v=4" width="30" /> | @joshaber | The Gem City |  |
+| <img src="https://avatars.githubusercontent.com/u/17565?v=4" width="30" /> | @smashwilson | null | </> 🗣️ @  |
+| <img src="https://avatars.githubusercontent.com/u/17725?v=4" width="30" /> | @mgriffin | Castlebar, Ireland |  |
+| <img src="https://avatars.githubusercontent.com/u/30761?v=4" width="30" /> | @azizshamim | Nashville, TN | Sector not found reading drive AAbort, Retry, Ignore, Fail? |
+| <img src="https://avatars.githubusercontent.com/u/40415?v=4" width="30" /> | @mlinksva | San Francisco, California | pre-epochal parasite; post-epochal scavenger; as of 2016 not yet compost. |
+| <img src="https://avatars.githubusercontent.com/u/41523?v=4" width="30" /> | @jammur | null |  |
+| <img src="https://avatars.githubusercontent.com/u/65057?v=4" width="30" /> | @jdennes | Berlin, Germany |  |
+| <img src="https://avatars.githubusercontent.com/u/82317?v=4" width="30" /> | @cheshire137 | Nashville, Tennessee | I'm a dev at @github. I enjoy drinking lots of Earl Grey 🍵 and playing video games. |
+| <img src="https://avatars.githubusercontent.com/u/98681?v=4" width="30" /> | @mdo | San Francisco, CA | Principal Design & Brand Architect at @GitHub. Design advisor. Creator of Bootstrap (@twbs). Previously at Twitter. Huge nerd. |
+| <img src="https://avatars.githubusercontent.com/u/103360?v=4" width="30" /> | @ptoomey3 | Denver, CO | Product Security Engineer at GitHub |
+| <img src="https://avatars.githubusercontent.com/u/136521?v=4" width="30" /> | @tclem | San Francisco | Engineer at GitHub since 2011. |
+| <img src="https://avatars.githubusercontent.com/u/203805?v=4" width="30" /> | @stoe | Earth | I 💚 my Lederhos'n. |
+| <img src="https://avatars.githubusercontent.com/u/282759?v=4" width="30" /> | @benbalter | Washington, DC | Attorney, open source developer, Chief of Staff for Security @GitHub. Previously @GitHub Trust & Safety and @WhiteHouse Presidential Innovation Fellow. |
+| <img src="https://avatars.githubusercontent.com/u/334891?v=4" width="30" /> | @broccolini | New York | Head of Design @github. |
+| <img src="https://avatars.githubusercontent.com/u/335443?v=4" width="30" /> | @carlosmn | Berlin |  |
+| <img src="https://avatars.githubusercontent.com/u/371055?v=4" width="30" /> | @buckelij | OR, USA |  |
+| <img src="https://avatars.githubusercontent.com/u/378023?v=4" width="30" /> | @simurai | Sapporo, Japan | Mostly just pushing black+white space around. 🏁 |
+| <img src="https://avatars.githubusercontent.com/u/423347?v=4" width="30" /> | @mikrobi | Everywhere | I like to ride my 🚲! |
+| <img src="https://avatars.githubusercontent.com/u/427255?v=4" width="30" /> | @gregose | null |  |
+| <img src="https://avatars.githubusercontent.com/u/553742?v=4" width="30" /> | @iolsen | San Francisco |  |
+| <img src="https://avatars.githubusercontent.com/u/564113?v=4" width="30" /> | @tarebyte | Columbus, Ohio | ¯\(°_o)/¯ |
+| <img src="https://avatars.githubusercontent.com/u/627280?v=4" width="30" /> | @lildude | United Kingdom | 2:39 Marathon runner, part-time rower, beer drinker, coder and stay-at-home astronaut. Also senior engineer @github & lead maintainer of github/linguist |
 <!--/auto-team-table-->
 
 ### About us
