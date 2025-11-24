@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Run team readme generator
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - id: Generate
         uses: djdefi/team-readme-generator@main
         with:
